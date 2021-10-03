@@ -1,2 +1,2 @@
-# Vue 3 & webpack boilerplate
+# Vue-webpack-template
 
